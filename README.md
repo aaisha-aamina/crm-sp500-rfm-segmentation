@@ -67,7 +67,7 @@ To re-download fresh data instead, set `USE_SNAPSHOT = False`. Results will then
 
 ## Limitations
 
-- The constituent list is the current index membership, so shares that left the index during 2021–2024 are not included (survivorship bias).
+- The constituent list is the index membership at retrieval (November 2026). It excludes shares that left the index during 2021–2024, and it includes shares that joined the index after the study period. Both are selection effects (survivorship and look-ahead bias).
 - Monetary value is a trading-liquidity proxy, not a customer spend measure.
 - On 20 Dec 2024 (a market-wide index-rebalance and options-expiry day) most shares have the same latest high-volume date, so R has many ties and discriminates weakly.
 - Segment profiles describe 2021–2024. Beta was stable across the two halves of the period, but mean return was not, so the segments are descriptive rather than predictive.
