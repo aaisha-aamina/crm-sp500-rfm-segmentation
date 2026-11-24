@@ -36,5 +36,6 @@
   },
   "min_cluster_size_rule": 15,
   "sklearn": "1.6.1",
-  "scipy": "1.16.3"
+  "scipy": "1.16.3",
+  "raw_prices_sha256": "4e773f008ff9e199dc14500be2a0c1528521d59b46c98e5a16a75b4471a42936"
 }
